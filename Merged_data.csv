@@ -1,0 +1,17 @@
+,Session ID_x,User ID,Dish Name,Meal Type_x,Session Start,Session End,Duration (mins),Session Rating,Order ID,Order Date,Meal Type_y,Order Status,Amount (USD),Time of Day,Rating,Session ID_y,User Name,Age,Location,Registration Date,Phone,Email,Favorite Meal,Total Orders
+0,S001,U001,Spaghetti,Dinner,2024-12-01 19:00:00,2024-12-01 19:30:00,30,4.5,1001,2024-12-01,Dinner,Completed,15.0,Night,5.0,S001,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12
+1,S004,U001,Pancakes,Breakfast,2024-12-02 07:30:00,2024-12-02 08:00:00,30,4.2,1004,2024-12-02,Breakfast,Completed,8.0,Morning,4.0,S004,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12
+2,S009,U001,Grilled Chicken,Dinner,2024-12-05 19:00:00,2024-12-05 19:40:00,40,4.9,1009,2024-12-05,Dinner,Completed,12.0,Night,5.0,S009,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12
+3,S002,U002,Caesar Salad,Lunch,2024-12-01 12:00:00,2024-12-01 12:20:00,20,4.0,1002,2024-12-01,Lunch,Completed,10.0,Day,4.0,S002,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8
+4,S006,U002,Spaghetti,Dinner,2024-12-03 18:30:00,2024-12-03 19:00:00,30,4.3,1006,2024-12-03,Dinner,Completed,14.0,Night,4.0,S006,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8
+5,S010,U002,Oatmeal,Breakfast,2024-12-05 07:00:00,2024-12-05 07:10:00,10,4.1,1010,2024-12-05,Breakfast,Completed,7.0,Morning,4.0,S010,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8
+6,S003,U003,Grilled Chicken,Dinner,2024-12-02 19:30:00,2024-12-02 20:10:00,40,4.8,1003,2024-12-02,Dinner,Canceled,12.5,Night,0.0,S003,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15
+7,S008,U003,Veggie Burger,Lunch,2024-12-04 13:30:00,2024-12-04 13:50:00,20,4.4,1008,2024-12-04,Lunch,Canceled,11.0,Day,0.0,S008,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15
+8,S011,U003,Pancakes,Breakfast,2024-12-06 08:00:00,2024-12-06 08:30:00,30,4.6,1011,2024-12-06,Breakfast,Completed,8.5,Morning,4.0,S011,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15
+9,S005,U004,Caesar Salad,Lunch,2024-12-03 13:00:00,2024-12-03 13:15:00,15,4.7,1005,2024-12-03,Lunch,Completed,9.0,Day,4.0,S005,David Brown,27,San Francisco,2023-04-05,444-333-2222,david@email.com,Dinner,10
+10,S012,U004,Spaghetti,Dinner,2024-12-06 19:00:00,2024-12-06 19:40:00,40,4.7,1012,2024-12-06,Dinner,Completed,12.5,Night,4.0,S012,David Brown,27,San Francisco,2023-04-05,444-333-2222,david@email.com,Dinner,10
+11,S007,U005,Grilled Chicken,Dinner,2024-12-04 18:00:00,2024-12-04 18:45:00,45,4.6,1007,2024-12-04,Dinner,Completed,13.5,Night,4.0,S007,Emma White,30,Seattle,2023-05-22,777-888-9999,emma@email.com,Lunch,9
+12,S013,U005,Caesar Salad,Lunch,2024-12-07 12:30:00,2024-12-07 13:00:00,30,4.4,1013,2024-12-07,Lunch,Completed,9.0,Day,4.0,S013,Emma White,30,Seattle,2023-05-22,777-888-9999,emma@email.com,Lunch,9
+13,S014,U006,Grilled Chicken,Dinner,2024-12-07 18:00:00,2024-12-07 18:45:00,45,4.8,1014,2024-12-07,Dinner,Completed,13.0,Night,5.0,S014,Frank Green,25,Austin,2023-06-15,888-777-6666,frank@email.com,Dinner,7
+14,S015,U007,Spaghetti,Dinner,2024-12-08 19:30:00,2024-12-08 20:10:00,40,5.0,1015,2024-12-08,Dinner,Completed,14.0,Night,5.0,S015,Grace King,38,Boston,2023-07-02,999-888-7777,grace@email.com,Breakfast,14
+15,S016,U008,Veggie Burger,Lunch,2024-12-08 13:30:00,2024-12-08 13:50:00,20,4.3,1016,2024-12-08,Lunch,Completed,11.0,Day,4.0,S016,Henry Lee,31,Miami,2023-08-11,101-202-3030,henry@email.com,Dinner,5
